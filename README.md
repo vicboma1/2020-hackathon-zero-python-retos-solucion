@@ -1,4 +1,4 @@
-# 2020-hackathon-python-retos-soluciones
+# 2020 hackathon python retos soluciones
 
 <p align="center">
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
